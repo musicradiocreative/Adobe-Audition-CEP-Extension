@@ -2,6 +2,8 @@
 
 A Music Radio Creative powered panel that can be docked inside Adobe Audition CC.
 
+![Adobe Audition Extension from Music Radio Creative](https://raw.githubusercontent.com/musicradiocreative/Adobe-Audition-CEP-Extension/master/images/initial-preview.png)
+
 ### Installation
 
 #### macOS
