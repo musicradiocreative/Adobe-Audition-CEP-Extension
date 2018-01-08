@@ -27,6 +27,6 @@ A Music Radio Creative powered panel that can be docked inside Adobe Audition CC
 
 ### Resources
 
-[Adobe CEP on GitHub](https://github.com/Adobe-CEP) - Official samples and resources from the Adobe CEP team.
-[Script Loader for Adobe Audition](https://github.com/Adobe-CEP) - Handy tool for loading JSX scripts in Adobe Audition.
-[Notes Panel for Adobe Audition](https://github.com/Hennamann/Notes-Panel-for-Adobe-Audition) - Awesome Notes Plugin for Adobe Audition from [Ole Henrik Stabell](https://github.com/Hennamann).
+* [Adobe CEP on GitHub](https://github.com/Adobe-CEP) - Official samples and resources from the Adobe CEP team.
+* [Script Loader for Adobe Audition](https://github.com/Adobe-CEP) - Handy tool for loading JSX scripts in Adobe Audition.
+* [Notes Panel for Adobe Audition](https://github.com/Hennamann/Notes-Panel-for-Adobe-Audition) - Awesome Notes Plugin for Adobe Audition from [Ole Henrik Stabell](https://github.com/Hennamann).
