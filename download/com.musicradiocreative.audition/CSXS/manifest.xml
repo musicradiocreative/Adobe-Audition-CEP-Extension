@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExtensionManifest Version="7.0" ExtensionBundleId="com.musicradiocreative.audition" ExtensionBundleVersion="1.0.1"
+ExtensionBundleName="Music Radio Creative Extension"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ExtensionList>
+    <Extension Id="com.musicradiocreative.audition" Version="1.0.0" />
+  </ExtensionList>
+  <ExecutionEnvironment>
+    <HostList>
+      <Host Name="AUDT" Version="8.0"/>
+    </HostList>
+    <LocaleList>
+      <Locale Code="All" />
+    </LocaleList>
+    <RequiredRuntimeList>
+      <RequiredRuntime Name="CSXS" Version="7.0" />
+    </RequiredRuntimeList>
+  </ExecutionEnvironment>
+
+  <DispatchInfoList>
+    <Extension Id="com.musicradiocreative.audition">
+      <DispatchInfo >
+        <Resources>
+          <MainPath>./index.html</MainPath>
+          <CEFCommandLine>
+              <Parameter>--persist-session-cookies</Parameter>
+          </CEFCommandLine>
+        </Resources>
+        <Lifecycle>
+          <AutoVisible>true</AutoVisible>
+        </Lifecycle>
+        <UI>
+          <Type>Panel</Type>
+          <Menu>Music Radio Creative</Menu>
+          <Geometry>
+            <Size>
+              <Height>600</Height>
+              <Width>722</Width>
+            </Size>
+            <MaxSize>
+              <Height>800</Height>
+              <Width>1200</Width>
+            </MaxSize>
+            <MinSize>
+              <Height>400</Height>
+              <Width>600</Width>
+            </MinSize>
+          </Geometry>
+        </UI>
+      </DispatchInfo>
+    </Extension>
+  </DispatchInfoList>
+</ExtensionManifest>
